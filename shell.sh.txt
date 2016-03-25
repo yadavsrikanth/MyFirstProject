@@ -1,0 +1,2 @@
+echo "My name is Srikanth"
+echo "My friends name is Shravan"
